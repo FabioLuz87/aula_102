@@ -49,5 +49,6 @@ public class Program {
 
         System.out.println("Atualização");
 
+        System.out.println("Nova Atualização");
     }
 }
